@@ -1,0 +1,1 @@
+import React from 'react'; export default function App() { return <div>Mandarin WADDLE App is Working!</div>; }
